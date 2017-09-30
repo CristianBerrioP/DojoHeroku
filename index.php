@@ -9,8 +9,8 @@
     <h1>My first PHP page</h1>
 
     <?php
-      echo "Hello App Empresariales - Cristian Berrio"
+      echo "Hello App Empresariales - Cristian Berrio Pulido"
      ?>
-     
+
   </body>
 </html>
